@@ -4,11 +4,12 @@ This is a python script with the following functions:
 - saving an output in a csv file;
 - filtering by columns in the csv file.
 
-#Usage
+# Usage
 
     python filtered_driverquery_csv.py
 
-#Example
+# Example
+
 Filtering example by driver type "File System": 
 
 ![Screenshot](example.PNG)
